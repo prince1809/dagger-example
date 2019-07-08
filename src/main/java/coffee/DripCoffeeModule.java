@@ -9,7 +9,7 @@ import javax.inject.Singleton;
  * Created by prince on 2019/07/09.
  */
 @Module(includes = PumpModule.class)
-public class DripCoffeeModule {
+class DripCoffeeModule {
 
     @Provides
     @Singleton

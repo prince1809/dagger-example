@@ -1,0 +1,12 @@
+coffee/CoffeeApp$CoffeeShop.class
+coffee/DripCoffeeModule.class
+coffee/Thermosiphon.class
+coffee/DaggerCoffeeApp_CoffeeShop$Builder.class
+coffee/Pump.class
+coffee/CoffeeMaker.class
+coffee/Heater.class
+coffee/ElectricHeater.class
+coffee/DaggerCoffeeApp_CoffeeShop$1.class
+coffee/PumpModule.class
+coffee/DripCoffeeModule_ProvideHeaterFactory.class
+coffee/DaggerCoffeeApp_CoffeeShop.class
